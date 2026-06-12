@@ -1,0 +1,6 @@
+[submodule "usr.sbin/cpsi"]
+	path = usr.sbin/cpsi
+	url = https://github.com/CPS-Linux/cpsi
+[submodule "usr.sbin/cpsbuild"]
+	path = usr.sbin/cpsbuild
+	url = https://github.com/CPS-Linux/cpsbuild
